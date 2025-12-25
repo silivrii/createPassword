@@ -1,0 +1,26 @@
+body {
+    margin: 0;              
+    display: flex;            
+    justify-content: center;  
+    align-items: center;      
+    min-height: 100vh;        
+    flex-direction: column;   
+    background: linear-gradient(to right,red,purple);
+}
+hr {
+    border: 0;               
+    height: 2px;             
+    background-color: #333;   
+    width: 50%;               
+    margin: 20px auto;       
+}
+
+
+#idforbutton{
+    background:linear-gradient(to right,red,purple);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 50px;
+    width: 200px;
+    font-weight: 300;
+    
+}
